@@ -13,4 +13,4 @@ The public support contact for ChoreWhisperer is this repository's **Discussions
 
 ## Privacy
 
-Read the [Privacy Policy](/privacy). ChoreWhisperer collects no personal data: no account, no ads, no analytics, no tracking.
+Read the [Privacy Policy](privacy). ChoreWhisperer collects no personal data: no account, no ads, no analytics, no tracking.
